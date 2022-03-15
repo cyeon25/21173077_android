@@ -1,3 +1,3 @@
-# 21173077_android
+#2주차(2022-03-15)
 
-Hello my name is parkchaeyeon
+ -안드로이드 스튜디오 설치& 깃허브 가입
