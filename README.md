@@ -4,9 +4,9 @@
 ![image](https://user-images.githubusercontent.com/81044598/158428540-83e13c4d-43d4-483e-b304-ff82d1f662fb.png)
 
 # 3주차(2022-03-22)
-<img src="21173077_android/documentation/메시지.jpg">
-<img src="21173077_android/documentation/플랫폼전화걸기.jpg">
-<img src="21173077_android/documentation/플랫폼네이버접속.jpg">
+<img src="documentation/메시지.jpg">
+<img src="documentation/플랫폼 전화걸기.jpg">
+<img src="documentation/플랫폼 네이버접속.jpg">
 
 
 
