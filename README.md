@@ -5,3 +5,9 @@
 
 # 3주차(2022-03-22)
 <img src="21173077_android/documentation/메시지.jpg">
+<img src="21173077_android/documentation/플랫폼전화걸기.jpg">
+<img src="21173077_android/documentation/플랫폼네이버접속.jpg">
+
+
+
+
