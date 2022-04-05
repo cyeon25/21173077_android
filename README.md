@@ -8,6 +8,9 @@
 <img src="documentation/플랫폼 전화걸기.jpg">
 <img src="documentation/플랫폼 네이버접속.jpg">
 
-
-
+# 5주차(2022-04-05)
+<img src="documentation/5st_activity_main.jpg">
+<img src="documentation/5st_MainActivity.jpg">
+<img src="documentation/5st_cat">
+<img src="documentation/5st_dog">
 
