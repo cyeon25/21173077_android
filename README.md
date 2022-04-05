@@ -11,6 +11,6 @@
 # 5주차(2022-04-05)
 <img src="documentation/5st_activity_main.jpg">
 <img src="documentation/5st_MainActivity.jpg">
-<img src="documentation/5st_cat">
-<img src="documentation/5st_dog">
+<img src="documentation/5st_cat.png">
+<img src="documentation/5st_dog.png">
 
