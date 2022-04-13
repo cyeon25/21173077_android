@@ -14,3 +14,8 @@
 <img src="documentation/5st_cat.png">
 <img src="documentation/5st_dog.png">
 
+#6주차(2022-04-12)
+<img src="documentation/image01_넓이.png">
+<img src="documentation/image01_높이.png">
+<img src="documentation/image02_넓이.png">
+<img src="documentation/image02_높이.png">
