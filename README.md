@@ -24,6 +24,6 @@
 -/image02_높이
 <img src="documentation/image02_높이.png">
 
-#10주차
+# 10주차
 <img src="documentation/main.jpg">
 <img src="documentation/menu.jpg">
